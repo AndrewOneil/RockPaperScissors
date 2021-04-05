@@ -1,0 +1,10 @@
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Andy\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
